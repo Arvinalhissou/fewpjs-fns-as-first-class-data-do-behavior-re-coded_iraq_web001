@@ -25,6 +25,6 @@ function greet(time){
 }
 /* Write your implementation of displayMessage() */
 
-function displayMessage(greeting){
-   console.log("TEST");
+function displayMessage(string){
+   let newmessage = document.get.getElementById("greeting");
 }
